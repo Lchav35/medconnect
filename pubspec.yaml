@@ -1,0 +1,64 @@
+name: flutter_app
+description: "Sistema SaaS de gerenciamento de receitas médicas e acompanhamento de pacientes na Atenção Básica de Saúde"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Icons
+  cupertino_icons: ^1.0.8
+  
+  # Core Firebase packages (LOCKED versions)
+  firebase_core: ^3.15.2
+  cloud_firestore: ^5.6.10
+  firebase_storage: ^12.4.10
+  firebase_auth: ^5.7.0
+  
+  # State Management
+  provider: 6.1.5+1
+  
+  # Local Storage (offline-first)
+  hive: 2.2.3
+  hive_flutter: 1.1.0
+  shared_preferences: 2.5.3
+  
+  # Networking
+  http: 1.5.0
+  
+  # PDF Generation
+  pdf: 3.11.1
+  printing: 5.13.4
+  
+  # Image Handling
+  image_picker: 1.1.2
+  cached_network_image: 3.4.1
+  
+  # Utilities
+  intl: ^0.20.2
+  uuid: 4.5.1
+  path_provider: 2.1.5
+  url_launcher: 6.3.1
+  
+  # Forms & Validation
+  mask_text_input_formatter: 2.9.0
+  
+  # Connectivity
+  connectivity_plus: 6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
