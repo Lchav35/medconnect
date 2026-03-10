@@ -1,0 +1,133 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    /* ================================
+       🔐 FUNÇÕES AUXILIARES
+    ================================= */
+
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function userDoc() {
+      return get(/databases/$(database)/documents/usuarios_global/$(request.auth.uid));
+    }
+
+    function userExists() {
+      return exists(/databases/$(database)/documents/usuarios_global/$(request.auth.uid));
+    }
+
+    function isApproved() {
+      return userExists() && userDoc().data.status == "aprovado";
+    }
+
+    function userRole() {
+      return userDoc().data.role;
+    }
+
+    function userMunicipio() {
+      return userDoc().data.municipio_id;
+    }
+
+    function isSuperAdmin() {
+      return userRole() == "super_admin";
+    }
+
+    function isGestorMunicipal() {
+      return userRole() == "gestor_municipal";
+    }
+
+    function isGestorUnidade() {
+      return userRole() == "gestor_unidade";
+    }
+
+    function isMedico() {
+      return userRole() == "medico";
+    }
+
+    function isACS() {
+      return userRole() == "acs";
+    }
+
+    /* ================================
+       🚫 BLOQUEIO GLOBAL PADRÃO
+    ================================= */
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    /* ================================
+       👤 COLEÇÃO GLOBAL DE USUÁRIOS
+    ================================= */
+
+    match /usuarios_global/{uid} {
+
+      /* ✅ CADASTRO PÚBLICO (PENDENTE) */
+      allow create: if isAuthenticated()
+                    && request.resource.data.status == "pendente"
+                    && request.resource.data.role in ["acs", "medico"]
+                    && request.resource.data.municipio_id is string;
+
+      /* ✅ LEITURA */
+      allow read: if isAuthenticated()
+                  && (
+                        isSuperAdmin()
+                        || (isApproved() && request.auth.uid == uid)
+                     );
+
+      /* 🔒 SUPER ADMIN CONTROLE TOTAL */
+      allow update, delete: if isSuperAdmin();
+
+      /* 🏛 GESTOR MUNICIPAL PODE APROVAR DO PRÓPRIO MUNICÍPIO */
+      allow update: if isAuthenticated()
+                    && isApproved()
+                    && isGestorMunicipal()
+                    && resource.data.municipio_id == userMunicipio()
+                    && request.resource.data.role == resource.data.role
+                    && request.resource.data.municipio_id == resource.data.municipio_id;
+
+      /* 👤 USUÁRIO PODE ATUALIZAR APENAS DADOS PESSOAIS */
+      allow update: if isAuthenticated()
+                    && isApproved()
+                    && request.auth.uid == uid
+                    && request.resource.data.role == resource.data.role
+                    && request.resource.data.status == resource.data.status
+                    && request.resource.data.municipio_id == resource.data.municipio_id;
+    }
+
+    /* ================================
+       🏥 DADOS ISOLADOS POR MUNICÍPIO
+    ================================= */
+
+    match /municipios/{municipioId} {
+
+      allow read: if isAuthenticated()
+                  && isApproved()
+                  && (userMunicipio() == municipioId || isSuperAdmin());
+
+      allow write: if isSuperAdmin();
+
+      match /{subCollection}/{docId} {
+
+        allow read: if isAuthenticated()
+                    && isApproved()
+                    && (userMunicipio() == municipioId || isSuperAdmin());
+
+        allow create: if isAuthenticated()
+                      && isApproved()
+                      && userMunicipio() == municipioId;
+
+        allow update: if isAuthenticated()
+                      && isApproved()
+                      && userMunicipio() == municipioId;
+
+        allow delete: if isAuthenticated()
+                      && isApproved()
+                      && (isGestorMunicipal() || isSuperAdmin());
+      }
+    }
+
+  }
+}

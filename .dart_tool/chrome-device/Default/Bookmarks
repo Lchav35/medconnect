@@ -1,0 +1,488 @@
+{
+   "checksum": "046f958d3fe18b352917a01512378d04",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13325289466533781",
+            "date_last_used": "13416801008892944",
+            "guid": "bd84dff0-3526-454b-9157-2ec38fd55041",
+            "id": "7",
+            "name": "Automação de Programa ou Sistema com Pyautogui no Python",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hashtagtreinamentos.com/automacao-programa-sistema-python",
+            "visit_count": 1
+         }, {
+            "date_added": "13327037960974259",
+            "date_last_used": "13416792542941650",
+            "guid": "4adc5abb-b5be-4b0a-80be-78f8b1481428",
+            "id": "8",
+            "name": "Animes - Animes Brasil",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://animesbrasil.org/animes/",
+            "visit_count": 1
+         }, {
+            "date_added": "13352328600320467",
+            "date_last_used": "13371263318920165",
+            "guid": "edfe3999-6390-4839-88b1-919dc4140ac3",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sonic Adventure 2 ISO ROM Baixar - Retrostic",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.retrostic.com/pt/roms/dreamcast/sonic-adventure-2-81281/download",
+            "visit_count": 1
+         }, {
+            "date_added": "13361145659045844",
+            "date_last_used": "13401908059666721",
+            "guid": "d1235c81-01ac-40ae-b7fe-e6a3e024a835",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Word-jumper - a game that will teach you to touch type. Learn touch typing by playing games - AgileFingers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://agilefingers.com/games/word-jumper",
+            "visit_count": 3
+         }, {
+            "date_added": "13363481739108521",
+            "date_last_used": "0",
+            "guid": "993822e1-f1c5-4f63-83c4-589523467c38",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ytmp3.cc/youtube-to-mp3/",
+            "visit_count": 0
+         }, {
+            "date_added": "13364668910736868",
+            "date_last_used": "13417536571473183",
+            "guid": "fe82219f-8da6-4001-b57c-8d6a21ee1851",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WhatsApp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.whatsapp.com/",
+            "visit_count": 120
+         }, {
+            "date_added": "13371174205794974",
+            "date_last_used": "13417490575451309",
+            "guid": "dda36e63-942b-4700-a734-bec44cabc980",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Crunchyroll - Assista a Animes, Jogue Games e Compre Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.crunchyroll.com/pt-br",
+            "visit_count": 33
+         }, {
+            "date_added": "13371863070711508",
+            "date_last_used": "13417358765830200",
+            "guid": "fdd18788-de07-4f92-abe1-edebd9f81684",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "soundcloud - Pesquisar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?pglt=41&q=soundcloud&cvid=227474d4ebba410f9a4907a94bb23332&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxBFGDwyBggIEAUYQNIBCTExOTA3ajBqMagCALACAA&FORM=ANSPA1&adppc=EDGEXST&PC=ESBXSP",
+            "visit_count": 99
+         }, {
+            "date_added": "13375056193160030",
+            "date_last_used": "0",
+            "guid": "a50cb984-056a-44b1-bdbc-d411c264c735",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MONKEY MART - Jogue Grátis Online! | Poki",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://poki.com/br/g/monkey-mart",
+            "visit_count": 1
+         }, {
+            "date_added": "13395884833993806",
+            "date_last_used": "13402540741862735",
+            "guid": "622beab1-07fa-452e-8b39-0b9ed3608647",
+            "id": "16",
+            "name": "Untitled on Scratch",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://scratch.mit.edu/projects/1193858682/editor",
+            "visit_count": 3
+         }, {
+            "date_added": "13397445968659647",
+            "date_last_used": "0",
+            "guid": "12f85fd6-a7c3-426e-91ab-dbb659f7382c",
+            "id": "17",
+            "name": "exe de historia de dois paltinhos lutando - Pesquisar Imagens",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/images/search?view=detailV2&ccid=sTk6smCV&id=D1069DEC3C59BB773613C691BA01498B11C1D035&thid=OIP.sTk6smCV3UOIm5wfIfsdIQHaEK&mediaurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fgp-Ep9uzFy0%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gNSgYMA8%3D%26rs%3DAOn4CLBHm-BMgk9UCUxtXBFdp8JU7nLELw&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.b1393ab26095dd43889b9c1f21fb1d21%3Frik%3DNdDBEYtJAbqRxg%26pid%3DImgRaw%26r%3D0&exph=720&expw=1280&q=exe+de+historia+de+dois+paltinhos+lutando&form=IRPRST&ck=7D1A66C86B29A09E2A358C780B1BF199&selectedindex=1&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_PNr8LUP5*cp_9E726983ED1E310397D9FDB25504F06C*mid_8DCA2625D0655935CA738F4CB7A6209AA3C2D238*thid_OIP.PNr8LUP5SYrTRaIuh9!_MnAHaEK&vt=0&sim=11&iss=VSI&simid=608022951991577258&mid=D1069DEC3C59BB773613D1069DEC3C59BB773613&ajaxhist=0&ajaxserp=0",
+            "visit_count": 1
+         }, {
+            "date_added": "13398214304054065",
+            "date_last_used": "13399169564389250",
+            "guid": "2a72cf7d-e8da-4f4f-a635-5d64bc8a868d",
+            "id": "18",
+            "name": "Duolingo - A melhor maneira do mundo de aprender inglês",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.duolingo.com/welcome",
+            "visit_count": 4
+         }, {
+            "date_added": "13398303602739795",
+            "date_last_used": "13402018470514726",
+            "guid": "2c9a5186-eb3a-4d0c-8757-88e00af7133a",
+            "id": "19",
+            "name": "Duolingo - A melhor maneira do mundo de aprender inglês",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.duolingo.com/lesson",
+            "visit_count": 16
+         }, {
+            "date_added": "13398561824307039",
+            "date_last_used": "0",
+            "guid": "4c8a984c-3b51-436a-a23a-e833c69bbf15",
+            "id": "20",
+            "name": "Nomeado",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://business.appointy.com/app/settings/postals",
+            "visit_count": 1
+         }, {
+            "date_added": "13171730564000000",
+            "date_last_used": "0",
+            "guid": "1d013e27-d17a-4d53-b336-89ba1e2dc439",
+            "id": "21",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.whatsapp.com/",
+            "visit_count": 0
+         } ],
+         "date_added": "13417570686360482",
+         "date_last_used": "0",
+         "date_modified": "13398561824307039",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13192166104000000",
+               "date_last_used": "0",
+               "guid": "cb5a416d-9bb5-40c4-b6b4-52b1b088e62c",
+               "id": "23",
+               "name": "IndicaAí | QuintoAndar",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://indicaai.quintoandar.com.br/intro",
+               "visit_count": 0
+            }, {
+               "date_added": "13193873176000000",
+               "date_last_used": "0",
+               "guid": "86f858be-c220-459f-9a3c-b17fac159706",
+               "id": "24",
+               "name": "Splitter Distribuidor Cabo Hdmi 1x4 Divisor Full Hd 1.4 3d - R$ 59,00 em Mercado Livre",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://produto.mercadolivre.com.br/MLB-845012776-splitter-distribuidor-cabo-hdmi-1x4-divisor-full-hd-14-3d-_JM?quantity=1#reco_item_pos=2&reco_backend=machinalis-v2p&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=84adb777-bf44-4fe7-9ce6-1cd15a19a3c7",
+               "visit_count": 0
+            }, {
+               "date_added": "13193873566000000",
+               "date_last_used": "0",
+               "guid": "18b0f435-a9eb-47a0-a3bf-0664a7997a13",
+               "id": "25",
+               "name": "Conversor Adaptador Multi-display De 3 Pontos - R$ 61,96 em Mercado Livre",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://produto.mercadolivre.com.br/MLB-1173373376-conversor-adaptador-multi-display-de-3-pontos-_JM?quantity=1",
+               "visit_count": 0
+            }, {
+               "date_added": "13193973471000000",
+               "date_last_used": "0",
+               "guid": "ebdfc608-4f6e-4d21-bfd0-5b549852da35",
+               "id": "26",
+               "name": "2 Placas De Vídeo Externa Adaptador Usb Vga 3.0 Via Cabo Usb - R$ 189,90 em Mercado Livre",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://produto.mercadolivre.com.br/MLB-1016730396-2-placas-de-video-externa-adaptador-usb-vga-30-via-cabo-usb-_JM?flash=a89492988708573b7f2d2df9a7640d80d8d6c7af&noIndex=true&quantity=1",
+               "visit_count": 0
+            }, {
+               "date_added": "13195757506000000",
+               "date_last_used": "0",
+               "guid": "e8930e71-0afb-4b57-9181-ff1906e4548c",
+               "id": "27",
+               "name": "Confuso entre os candles? Conheça os principais padrões de reversão - InfoMoney",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.infomoney.com.br/educacao/guias/noticia/1778648/confuso-entre-candles-conheca-principais-padroes-reversao",
+               "visit_count": 0
+            }, {
+               "date_added": "13263584298000000",
+               "date_last_used": "0",
+               "guid": "f48f7740-20ad-4205-8ca3-2f45e42f6d29",
+               "id": "28",
+               "name": "Dashboard API | Python/v3 | Plotly",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://plotly.com/python/v3/create-online-dashboard-legacy/",
+               "visit_count": 0
+            }, {
+               "date_added": "13263584579000000",
+               "date_last_used": "0",
+               "guid": "f9282b63-a29a-49f9-93c1-65113261b37a",
+               "id": "29",
+               "name": "Plotly | Make charts and dashboards online",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://chart-studio.plotly.com/dashboard/create/#/",
+               "visit_count": 0
+            }, {
+               "date_added": "13264099897000000",
+               "date_last_used": "0",
+               "guid": "e0de4350-23fe-49c7-ba4c-d0059ac5cb23",
+               "id": "30",
+               "name": "AprendaProgramar - PythonBrasil",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://wiki.python.org.br/AprendaProgramar",
+               "visit_count": 0
+            }, {
+               "date_added": "13264187731000000",
+               "date_last_used": "0",
+               "guid": "358443d4-ca20-4337-b5e7-671a688eae7b",
+               "id": "31",
+               "name": "Passo-a-Passo web2py, 3º Passo | JuliaRizza.py",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://juliarizza.wordpress.com/2015/08/20/passo-a-passo-web2py-3o-passo/",
+               "visit_count": 0
+            }, {
+               "date_added": "13383006989000000",
+               "date_last_used": "0",
+               "guid": "904d0903-d781-4ace-a3d3-8906cdfa768a",
+               "id": "32",
+               "name": "Carrinho de Mão Dobrável Transporte Carga até 70 kg - Nagano",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.agrotama.com.br/produtos/carrinho-de-mao-dobravel-transporte-carga-ate-70-kg/nagano-102048253,77,1146/",
+               "visit_count": 0
+            }, {
+               "date_added": "13397453198000000",
+               "date_last_used": "0",
+               "guid": "04705709-2be2-428e-a626-e7688a620ba6",
+               "id": "33",
+               "name": "Módulos do curso: SEO e Marketing de Conteúdo",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://lms.santanderopenacademy.com/courses/1175/modules",
+               "visit_count": 0
+            } ],
+            "date_added": "13398907824851336",
+            "date_last_used": "0",
+            "date_modified": "13398907824851336",
+            "guid": "a944a376-2909-4c79-8b81-48d90b125c3e",
+            "id": "22",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13161127761000000",
+               "date_last_used": "0",
+               "guid": "c67348b5-3174-431a-b46c-db7bfd77d1ae",
+               "id": "35",
+               "name": "Curso de Adestramento de Cães - Curso Grátis Online com Certificado",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.cursosonlinesp.com.br/item/Curso-Adestramento-de-C%E3es-%7B47%7D-60-horas.html",
+               "visit_count": 0
+            }, {
+               "date_added": "13160261073000000",
+               "date_last_used": "0",
+               "guid": "ffddb396-e06a-4bf2-b969-9a53505dd958",
+               "id": "36",
+               "name": "Sacola de Compras",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://secure.tricae.com.br/cart/",
+               "visit_count": 0
+            } ],
+            "date_added": "13398907824856418",
+            "date_last_used": "0",
+            "date_modified": "13398907824856418",
+            "guid": "897d1cbd-4afc-48bd-b8f9-62082b8e0970",
+            "id": "34",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13398994530324582",
+            "date_last_used": "13408201189365347",
+            "guid": "89961ed3-b0ba-4de2-a0bb-f31e91a47505",
+            "id": "37",
+            "name": "Stream e ouça à música online gratuitamente com a SoundCloud",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://soundcloud.com/",
+            "visit_count": 3
+         }, {
+            "date_added": "13401648717613248",
+            "date_last_used": "13402109459708503",
+            "guid": "c42bf1c3-8004-4a35-8301-f06bf04dedad",
+            "id": "38",
+            "name": "Demon Slayer: Kimetsu No Yaiba - Capítulo 01 – LerMangas.com.br",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.lermangas.com.br/2024/10/demon-slayer-kimetsu-no-yaiba-capitulo.html",
+            "visit_count": 6
+         }, {
+            "date_added": "13403240832422847",
+            "date_last_used": "0",
+            "guid": "0dcee09e-73dd-4d3c-9dd5-da44fc4e27f2",
+            "id": "39",
+            "name": "Viralfy.ai - Gerador de Conteúdo Viral com IA para Redes Sociais",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.viralfy.ai/dashboard/gerador-conteudo",
+            "visit_count": 1
+         }, {
+            "date_added": "13404000125928004",
+            "date_last_used": "0",
+            "guid": "4e62aebf-73f6-46a0-b8d2-28ee9e259d8c",
+            "id": "40",
+            "name": "IMG_5231 — Kapwing",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.kapwing.com/studio/editor/transcript?upgrade=%257B%2522a%2522%253A%2522export-webm%2522%252C%2522irp%2522%253A%2522undefined%2522%257D",
+            "visit_count": 1
+         }, {
+            "date_added": "13404955386884556",
+            "date_last_used": "0",
+            "guid": "506bf431-385f-4873-bfc4-019cc30c55b0",
+            "id": "41",
+            "name": "Sem título - FlexClip",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.flexclip.com/pt/editor/app?id=a2NMtMzPiP1LY1aRvOcgCJmWbxgVzZKc",
+            "visit_count": 1
+         }, {
+            "date_added": "13408201203954512",
+            "date_last_used": "0",
+            "guid": "6fa04b37-42c2-4704-8e59-6fb2711ddf44",
+            "id": "42",
+            "name": "mercado play grátis - Pesquisar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=mercado+play+gr%c3%a1tis&qs=LS&pq=mercado+play&sk=AS1LS1&sc=12-12&cvid=0F1023AB010145D690F2AFB02DBB2751&FORM=QBRE&sp=3&ghc=1&lq=0",
+            "visit_count": 1
+         }, {
+            "date_added": "13408217893780651",
+            "date_last_used": "0",
+            "guid": "69cbd4b3-029c-427f-bbea-0588218f0953",
+            "id": "43",
+            "name": "DAN DA DAN Dublado Online - Aniture",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aniture-pt.com.br/animes-e-desenhos/dan-da-dan/",
+            "visit_count": 1
+         }, {
+            "date_added": "13408219377567896",
+            "date_last_used": "0",
+            "guid": "a520965c-eaf5-46ac-9546-29ac0b338a9f",
+            "id": "44",
+            "name": "DAN DA DAN 2x04 Dublado Online - Aniture",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aniture-pt.com.br/episodios/dan-da-dan-2x04-dublado-online/",
+            "visit_count": 1
+         } ],
+         "date_added": "13417570686360482",
+         "date_last_used": "0",
+         "date_modified": "13408219377567896",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13417570686360482",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13417570686360482",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "Espaços de trabalho",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCMr+39ScAQAAEgAqGFlLUGdIYURnZWpMTlVSdjYyckRGaGc9PUgDoAYMEq0BCCwSqAEKHGU4SHlGVjhWR1V3NXB0eVNsNXZkWlhEMk9ZOD0SJGE1MjA5NjVjLWVhZjUtNDZhYy05NTQ2LTI5YWMwYjMzOGE5ZhgAIAAoADCui8S7qjM4oZDEu6ozQKGQxLuqM0ocREtMUnh1NnFzYlloUjVvS1ZBWFJBTDNOYms0PVofIh3/UnNPS1BMNERGclBGV2gxSW4rMUM3QnFaN0NFPWXK6ngswj4CYAUSrQEIKhKoAQocVmNQMnMwdzR3ZjN5S2tSS0JJMGYxbFNNWlBFPRIkNmZhMDRiMzctNDJjMi00NzA0LThlNTktNmZiMjcxMWRkZjQ0GAAgACgAMPKMy8OqMziw7e6yqjNAsO3usqozShxRNkE2Sm91WW04NlNFTU9hZE1DSVo2SVJPbjg9Wh8iHf1UbUkwUFVSaVRnQStBNlZ4eWxuUmVrSVluNW89ZfTwSyjCPgJgBRKtAQgpEqgBChxXVHZwVXBub04zeWVTTDFWb2h2OHZRdjF2ZTg9EiQ1MDZiZjQzMS0zODVmLTQ4NzMtYmZjNC0wMTljYzMwYzU1YjAYACAAKAAw6J6Rp54zONahkaeeM0DWoZGnnjNKHGgyRVlwdTlQSk1BYU9Ub041SmFFSzgrM1RZZz1aHyId+3Jvem5idXMzcHg0Yk9VWVRoeGJ1ZXA1L0pWdz1lxe3DQsI+AmAFEq0BCCYSqAEKHFRqVkYwazV1VGpkRm9OclY0TWNrRldCMTJyUT0SJGM0MmJmMWMzLTgwMDQtNGEzNS04MzAxLWYwNmJmMDRkZWRhZBgAIAAoADCBv4vakzM45o6y/pEzQOaOsv6RM0ocUGNaaFJRNDNPUjVvakF6TThSd2dueEtTc2dvPVofIh3aTVBoNE1DVUF3RjRvaUtseVpod29OQ0F6VDVZPWWjgWh4wj4CYAUSrQEIJRKoAQocQTZ2dkg1NkdkNlNhU1hZcmcwRWhkZitXRzJzPRIkODk5NjFlZDMtYjBiYS00ZGUyLWEwYmItZjMxZTkxYTQ3NTA1GAAgACgAMKz67bKqMzjOq+OMiDNAzqvjjIgzShxFb2VqVFBpd0pOWUhlL0RkUmFMd29zYVVmTTA9Wh8iHbVBcmhXbDV6b2lPMjAvOWZRYTJzbExGb2hQbnM9ZTSbPUfCPgJgBRKsAQgiEqcBChxzekNXZW1zUmRRUmZTaStZUUFqUitxRWdSSzQ9EiQ4OTdkMWNiZC00YWZjLTQ4YmQtYjhmOS02MjA4MmI4ZTA5NzAYACAAKAAwjJm344czOICit+OHM0CAorfjhzNKHEg4MzRGK0IzdGwwTklkRU14c1hCa3Y1K2h3UT1aHiIca2NYSVQ4NnY5ZjZiQUxJR2hvRU5FTVZYNzVFPWUAAAAAwj4CYAASrQEIHxKoAQoccTJnY1RoaDZQVmZWQVJVc1ZTa1BGQzdrM2dVPRIkMzU4NDQzZDQtY2EyMC00MzM3LWI1ZTctNjcxYTY4OGVhZTdiGAAgACgAMInXueOHMzi92rnjhzNAvdq544czShw3aUR3MjZJOUtIM3ovVW4ybnRqWVd5WlJGWm89Wh8iHf44dkdZSUhzdGVYOERjZmdodkFCMmlZeWIrY3c9ZQAAAADCPgJgBRKtAQgcEqgBChxscVl6OU5BU3Jqa2phSzE1VW9HeGtIeW0rWTQ9EiRmNDhmNzc0MC0yMGFkLTQyMDUtOGNhMy0yZjQ1ZTQyZjZkMjkYACAAKAAwgte544czOIHZueOHM0CB2bnjhzNKHEFoWlBHV3BLUW92VXMvZENWYVovVDRWRkM1Zz1aHyId9i8vTE1OMHN6QXVGV3FvUDdYRm0xRUdMTlBvND1lAAAAAMI+AmAFEqwBCBgSpwEKHDRBM085Wk02WlZsUGhRQVJzZHgrdUVCTk9FND0SJDg2Zjg1OGJlLWMyMjAtNDU5Zi05YTNjLWIxN2ZhYzE1OTcwNhgAIAAoADCE17njhzM4stm544czQLLZueOHM0ocNk10bzJ6R1Vmdi9YMHB3ZG5YMW9jSlM2SUswPVoeIhxnMlBpYmtmV0dGY3pkVytzMFZ2OUxIQmY4MUE9ZQAAAADCPgJgBRKtAQghEqgBChxGdG5rU1doSCt3UEZWZmt0TzVhNnJlNi9vUnM9EiQwNDcwNTcwOS0yYmUyLTQyOGUtYTYyNi1lNzY4OGE2MjBiYTYYACAAKAAw/9a544czOIfYueOHM0CH2LnjhzNKHHVDZ1lEMTdtUkJyRGJmQXZTazVsa20zTEpuTT1aHyId/3hKVnQzb0NXeXFrcGpkSUd2RWtvclQxQVNJcz1lAAAAAMI+AmAFEq0BCBsSqAEKHE1mYTcxNEphdGJZVXRwOVZXYWNBUkFDU3d0QT0SJGU4OTMwZTcxLTBhZmItNGI1Ny05MTgxLWZmMTkwNmU0NTQ4YxgAIAAoADCB17njhzM4t9i544czQLfYueOHM0ocMzRLbk94TGFvaG1HWEVNTVlTelJEOXUzUGtvPVofIh3sd1prZWNvZnVQWFdXMUhlOGFkN3dsS3pWSjRFPWUAAAAAwj4CYAUSrAEIFhKnAQocVlU3cm9FL2F0RG9kWU5VVnlTTFNIdmVZTHJBPRIkYTk0NGEzNzYtMjkwOS00Yzc5LThiODEtNDhkOTBiMTI1YzNlGAAgACgAMI2Zt+OHMzisorfjhzNArKK344czShx0clpWRDJ0RzAxMXFqQVhnakFKKzV3MGxtK1k9Wh4iHENqUGxrcm9CQm1rVmJuZ3hLRTQrN3dpS2NWaz1lAAAAAMI+AmAAEqwBCBcSpwEKHHVTMUNGOCs3RmEyajNhcjN6V29xY3lPcmlacz0SJGNiNWE0MTZkLTliYjUtNDBjNC1iNmI0LTUyYjFiMDg4ZTYyYxgAIAAoADCD17njhzM4m9m544czQJvZueOHM0ocajU4dmx3ejNod1VoaS9zSXNaZjFIOG5FSWI4PVoeIhxlcE5FbVlyNUl5WU1US1Ixcm1HMkJzeFNEdTg9ZQAAAADCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQwMTgzMjUzOC00NjU5LTU2MDktOTdmZC1mNGRkMWFmNmQ1NDYYACAAKAAwq/2q9Z0wOPv/qvWdMED7/6r1nTBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEIKxKoAQocd3FHMFpaSnVWS1I4ZmRYT1c3ZzBRUFNyL3VnPRIkNjljYmQ0YjMtMDI5Yy00MjdmLWJiZWEtMDU4ODIxOGYwOTUzGAAgACgAMOfC6bqqMziNyem6qjNAjcnpuqozShx0cnZ4MnFlWEVvOENiNFlhS2c2bFgreTEwclE9Wh8iHf5UemtKb2UwbmRHSzAzaktISDhpanhjcHFmMjg9ZcrqeCzCPgJgBRKuAQgMEqkBChxWcDdyTnQzaFNvQlczRXIxcUFjUlBDb0g3YW89EiRmZTgyMjE5Zi04ZGE2LTQwMDEtYjU3Yy04ZDZhMjFlZTE4NTEYACAAKAAwyP3/ps0zOISfhp2IMkDI/f+mzTNKHE9wNGJISG9GMDJGOSs4Q3VpZm8zOFpseVBrMD1aICIe/+xaUDJzOUNDTGlVN3JVSTYwVUJhaWxUSVFCVWM9Zd0mvqzCPgJgBRKvAQgVEqoBChxiWU5zUFRzMEduVGVpZVpOU0dFY2FkVTcvQ0k9EiQxZDAxM2UyNy1kMTdhLTRkNTMtYjMzNi04OWJhMWUyZGM0MzkYACAAKAAwx/3/ps0zOKDYueOHM0DH/f+mzTNKHFdQamgzMmV6TW9qWjE4RFFkR2VENUwzZzVNWT1aISIf///3azdaWXMxN2E0dzljVFkzcTF6c05DV1djdFV3PWXdJr6swj4CYAUSrQEIGhKoAQocYTV4OGRxUkxpaW00ckV1M0ltRG10eGNnZDNZPRIkZWJkZmM2MDgtNGY2ZS00ZDIxLWJmZDAtNWI1NDk4NTJkYTM1GAAgACgAMIbXueOHMzj22bnjhzNA9tm544czShx1M2pSK2p0RXI5QWZLaXpqR1hWNTNxQlVGVUE9Wh8iHdkyMnYyUUVvaXk0VTBTT29JZkc5bTY2Wm9yQWM9ZQAAAADCPgJgBRKvAQgUEqoBChx2dkhsUEsxbjcxcG8wUlZ0Q3Bodk1VaHYySkE9EiQ0YzhhOTg0Yy0zYjUxLTQzNmEtYTIzYS1lODMzYzY5YmJmMTUYACAAKAAwk4i5voYzOKWIub6GM0CliLm+hjNKHERjZ3UxLytmUkNyRG5sdDdMY2l3YjF5b1JIQT1aISIf///uZUFJWTVpMm5PcmJtQk5VVWJhQjVrejd1clU4PWWc2cNkwj4CYAUSrwEIExKqAQoceDZBSFpDRks4RjFxOVFFa3hGaXhXMWZzd0JvPRIkMmM5YTUxODYtZWIzYS00ZDBjLTg3NTctODhlMDBhZjcxMzNhGAAgACgAMIyC2q6TMzjSxajDhTNA0sWow4UzShxPNXN6V1A4bHV5dmdTYnptVm5RRkV4bEwyR0U9WiEiH///3DhKeldJRHg4UTc1UGxWbHdQem1hMHlyRTNGbz1lC9QIhMI+AmAFEqwBCCMSpwEKHFk4aE51WUZoTjUyYWQwWHE1YWV1d0NLR3RtVT0SJGM2NzM0OGI1LTMxNzQtNDMxYS1iNDZjLWRiN2JmZDc3ZDFhZRgAIAAoADD+1rnjhzM48Ne544czQPDXueOHM0ocOG5IU0VoZWFxZXdXTUFiaDVsQllOaW9EU2pzPVoeIhxJK1BQSHRKMDk2NkZodUFNTTh6L21Rb25PMEU9ZQAAAADCPgJgBRKvAQgSEqoBChxHZ1h3UXpyYm5Bc0ZwcndVNDg0T3YxdWxzMG89EiQyYTcyY2Y3ZC1lOGRhLTRmNGYtYTYzNS01ZDY0YmM4YTg2OGQYACAAKAAw7oSQp4wzOLyT3piFM0C8k96YhTNKHGtmWmZGbklIdDlWVWg3d3JHc3JXMnBzOVozZz1aISIf//+5MUE2UVZJWitFL3VsbllRWGNPV3JQNGIvVVV3PWUL1AiEwj4CYAUSrgEIERKpAQocQW9wRU5sRkZhRmxMTEdvaTkrSVNmTGMwRlI4PRIkMTJmODVmZDYtYTdjMy00MjZlLTkxYWItZGJiNjU5ZjczODJjGAAgACgAML/MgoiJMzib2a+qgjNAm9mvqoIzShw4eldrMkJhWHVQQXBXR2UyWFBBNEwvVlRwN3M9WiAiHv//cnVzdWxtVGFZZWVUNlY3K29oVUNOVDYremNNPWX08Esowj4CYAUSrQEIKBKoAQocVTYyMWthNEZnbndmOTBCS09kcXlhcnJHRWVrPRIkNGU2MmFlYmYtNzNmNi00NmEwLWI4ZDItMjhlZTllMjU5ZDhjGAAgACgAMIHN0N+aMzir0dDfmjNAq9HQ35ozShw3N1RZejBQVkVPeDNkWWhhditRL2NGSUJna1E9Wh8iHfZYbEgxY0NDa2NOc0Fzbm9TdGU1ek9FbXFoQkE9ZQ0TE63CPgJgBRKtAQgkEqgBChxmZ0JDaUNhRUZOaEN3SFd3VFR4cVQwdmt1UDg9EiRmZmRkYjM5Ni1lMDZhLTRiZjItYjk2OS05YTUzNTA1ZGQ5NTgYACAAKAAwiNe544czOKbaueOHM0Cm2rnjhzNKHERXdU0rZmZyejFhdW1MUGtkZFUvQy9kampTZz1aHyIdpEJBRHNuc0Z6eXdWT1BHdXBPVUliM3ZCcWxxQT1lAAAAAMI+AmAFEq4BCBASqQEKHGJwY0N6VGJxa05BZ1gzUGVES0tMTjNUSUk5UT0SJDYyMmJlYWIxLTA3ZmEtNDUyZS04YjM5LTBiOWVkMzYwODY0NxgAIAAoADDTgd+nlTM4itr6wfwyQIra+sH8MkocejJXRlUzenNxRXZ3SEZZenoxaW96QXIyQlVrPVogIh7//0xJR2ZQbXU3anowT2VzYVpMNDF6MFlrVUc4MD1lTmxZecI+AmAFEq0BCB4SqAEKHFIyVWJqWDcvZ0dtbGx6K3BIcmxnY0p4TEgrUT0SJGUwZGU0MzUwLTIzZmUtNDljNy1iYTRjLWQwMDU5YWM1Y2IyMxgAIAAoADD81rnjhzM4pNe544czQKTXueOHM0ocY1docE80K2ZRUnB4S0RrQjVZZHJ3QmkzbW5nPVofIh39aEtIb1JScGxXNXZlb1RxRXgyN0tHbjBSUzNnPWUAAAAAwj4CYAUSrgEIDRKpAQocellOQkhXZ0ptN1d5cXo2Rk8rUm9IY3ZJdkd3PRIkZGRhMzZlNjMtOTQyYi00NzAwLWE3MzQtYmVjNDRjYWJjOTgwGAAgACgAMLahsIDNMzj1uIG7oDJA9biBu6AyShxNT2hCbTZRNW1DY2tKUXRlcE5OanZpR2pqSDg9WiAiHv/7cnQvcC9EWjZRekJHeW5xdFVWK21OWWhsdllrPWVJL6X6wj4CYAUSrQEIGRKoAQocZWtxQ2ZiMEowYWNpT0IrU2JjcmVBdC9VWEV3PRIkMThiMGY0MzUtYTllYi00N2EwLWEzYmYtMDY2NGE3OTk3YTEzGAAgACgAMIXXueOHMzjd2bnjhzNA3dm544czShxjOUlWR3FDSUNrSE9aS1REN2JVVERlZUMzZUU9Wh8iHbNXOVEvRHBxa1FSQjZjTS84VDYwRXpPd0hUZlk9ZQAAAADCPgJgBRKuAQgPEqkBChx0UjBWQmtXbkpEekRMcGM4aFhtMC9YdkJaL0U9EiRhNTBjYjk4NC0wNTZhLTQ0YjEtYmRiYy1kNDExYzI2NGM3MzUYACAAKAAwp+uogYkzOICXi/auMkCAl4v2rjJKHHAzTUlHTkNkMEdrREg5a3JnVnFwZm9TQWV4Yz1aICIe//5aRzEzbVNlYW40SGpwcnFJaEVBNWR5VnNXbEk9ZaWWH/nCPgJgBRKOAQgFEokBChx3UkJyWkwrNlBBOWF2S2dqTlA3SlhETGNmdnM9EiRlYTY3N2RmZi04NzBhLTVkNWMtYTM1Zi05NzcyNjlkZTI2YzMYACAAKAAwkbGdh5kzOLWxnYeZM0C1sZ2HmTNKHG5teDY1c1FEdnhJOFRnRWV2K0ErbnR0b1NuND1aAGUAAAAAwj4CYAASjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMjk3NWEyMGItMGE2ZC01OTdhLTkzZTItYjM2NjhiYzQ0ODM0GAAgACgAMKv9qvWdMDjc/6r1nTBA3P+q9Z0wShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCAcSpwEKHHNLSVZjelB5OEZ6aVRYRWgzQmVCQmpyQ3FxTT0SJGJkODRkZmYwLTM1MjYtNDU0Yi05MTU3LTJlYzM4ZmQ1NTA0MRgAIAAoADCuxsi3yjM426m7w/UwQNupu8P1MEocbFZ4Z0duaVlHMEhnMFd1NFJ1NDNrRXpiOGFjPVoeIhxnOFlIVTFXU0ZvTW8yNkhRVUxkR29YRnZ1WGc9ZWlPxnXCPgJgBRKuAQgOEqkBChxXQjBVTUF6KzZOaHRXcFg0anhodElrYUpxcEU9EiRmZGQxODc4OC1kZTA3LTRmOTItYWJlMS1lZGViZDlmODE2ODQYACAAKAAww57DwcwzOMXCvoOjMkDFwr6DozJKHG1JbDViREM1ZWFsSGpVQnNSRjFFV0dKQWhXcz1aICIe//0rTkc2UjEydU95WDBlclN5dzFnNk83aDhvMWM9ZXaFu7XCPgJgBRKuAQgKEqkBChxGS2JlWmdTcEc5T3pxUFM5ZG9QT1dYK3N1Q1E9EiRkMTIzNWM4MS0wMWFjLTQwYWUtYjdmZS1lNmEzZTAyNGE4MzUYACAAKAAw6oCH+pIzOPjkkI37MUD45JCN+zFKHEh4a1M0L2JIcndkUDRqK2sxbGExYndXZW5nOD1aICIe/7FLVGoremRuMk11SndybGFxdWVhT3YyaWtMZjg9ZWVxCPHCPgJgBRKtAQgdEqgBChw3WkJnMWNNZFN2UFVjdS8vQitQS1BwUHYxeXM9EiRmOTI4MmI2My1hMjlhLTQ5ZjktOTNjMS02NTExMzI2MWIzN2EYACAAKAAwh9e544czOI7aueOHM0CO2rnjhzNKHHJiRkdrUlhPdXA4ZFgyMWU3M1BUclFCK2c0cz1aHyId+3JkQ1VIazN5WlVUTlZOa1JaWm9MZjQ5M0xTND1lAAAAAMI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGE4MmY3YjMwLWYzZGMtNTE2My1iMzAwLWQxNmYyMDFjNGQ2MRgAIAAoADCr/ar1nTA46YCr9Z0wQOmAq/WdMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQgnEqgBChxzSEJRTS9zaFZNTmdocHJEemNoaExvbTlsVUE9EiQwZGNlZTA5ZS03M2RkLTRkM2MtOWRkNS1kYTQ0ZmM0ZTI3ZjIYACAAKAAwi4PJ9ZczOO+DyfWXM0Dvg8n1lzNKHEl2M1FSNWk1dWcvUWpZSmIrNHZLL0UxRExoWT1aHyId7XIrZG9hODNJYW9zbldleFFwVEdMUWdwVUR2WT1lIqnI38I+AmAFEq4BCAsSqQEKHEgwaWVZZkhmS2VCWjdoWmt2YzhqVG41NmRJMD0SJDk5MzgyMmUxLWYxYzUtNGY2My04M2M0LTU4OTUyMzQ2N2MzOBgAIAAoADC5/InngzI43P6J54MyQNz+ieeDMkocRmpPMWVkYTZzZ3I3R09ma1R1ZDhjL2tUNjJnPVogIh7/2FJRMDVaekpqU3Eyek5qRUFOUTJwcmZub1M5UT1lAAAAAMI+AmAFEq0BCAkSqAEKHG5QaW5PWjUydjVvMDhMUVJCMEVIcmdidjhPST0SJGVkZmUzOTk5LTYzOTAtNDgzOS04OGIxLTkxOWRjNDE0MGFjMxgAIAAoADCt9ce3yjM4wqHioNoxQMKh4qDaMUocU1dkNjZxRk1ic2ptczJqbG91NXoxUnU4MmM4PVofIh39MlFKTFM5WUUrM3o5S3p6UDVpK1IzTEw4VStvPWV8fYLMwj4CYAUSrQEIIBKoAQoccTJ3NUJCcFlEa09HOUxTMWpNNWErSTVSdC84PRIkOTA0ZDA5MDMtZDc4MS00YWNlLWEzZDMtODkwNmNkZmE3NjhhGAAgACgAMP3WueOHMzjG17njhzNAxte544czShxrQzhDUUM5NFVjUjBOWGlLcUw1T3FGdjRBMVE9Wh8iHf94OXA5d01nRWpMbHc5dXJ1aFNnTitjcFc4d2M9ZQAAAADCPgJgBRKtAQgIEqgBChx0MDZwQXQxM3EreThXYnV1TkJiNlFjSWJBeU09EiQ0YWRjNWFiYi1iNWJlLTRiMGEtODBiZS03OGY4YjE0ODE0MjgYACAAKAAw69fDs8ozONzsmoX8MEDc7JqF/DBKHGhXRTJQTERDMlVPOXpldktPZnpWVmdCcGlETT1aHyId2TJYK1BxbmFEbm5uR0x1TjV5d2NBNlhCV1dPdz1lAAAAAMI+AmAFMAA4AA==",
+   "version": 1
+}

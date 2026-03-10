@@ -1,0 +1,50 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function getUserData() {
+      return get(/databases/$(database)/documents/usuarios_global/$(request.auth.uid)).data;
+    }
+
+    function isSuperAdmin() {
+      return isAuthenticated() &&
+        getUserData().role == "super_admin" &&
+        getUserData().status == "aprovado";
+    }
+
+    function isAprovado() {
+      return isAuthenticated() &&
+        getUserData().status == "aprovado";
+    }
+
+    // 🔐 usuarios_global
+    match /usuarios_global/{userId} {
+
+      // Usuário pode ler próprio documento
+      allow read: if isAuthenticated() && request.auth.uid == userId;
+
+      // Super Admin pode ler todos
+      allow read: if isSuperAdmin();
+
+      // Criar somente via backend (bloquear client)
+      allow create: if false;
+
+      // Atualizar próprio doc SEM alterar campos críticos
+      allow update: if  {
+        isAuthenticated()
+        && request.auth.uid == userId
+        && request.resource.data.role == resource.data.role
+        && request.resource.data.status == resource.data.status
+        && request.resource.data.municipio_id == resource.data.municipio_id;
+      }
+
+      // Super Admin pode tudo
+      allow update, delete: if isSuperAdmin();
+    }
+
+  }
+}

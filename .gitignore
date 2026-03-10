@@ -1,0 +1,35 @@
+﻿# Substitui o .gitignore por uma versão completa
+@"
+# Flutter/Dart - IGNORAR TUDO ISSO!
+.dart_tool/
+build/
+*.log
+*.lock
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Firebase
+.firebase/
+firebase-debug.log
+google-services.json
+GoogleService-Info.plist
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+desktop.ini
+Thumbs.db
+*.tmp
+
+# Chrome/Android cache
+chrome-device/
+android/local.properties
+android/.gradle/
+
+# Arquivos do projeto (opcional)
+estrutura.txt
+projeto_completo.txt
+"@ | Out-File -FilePath .gitignore -Encoding utf8
