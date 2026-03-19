@@ -1,7 +1,9 @@
 enum UserRole {
   acs('acs', 'Agente Comunitário'),
   gestorUnidade('gestor_unidade', 'Gestor de Unidade'),
+  gestorMunicipal('gestor_municipal', 'Gestor Municipal'), // ADICIONADO
   medico('medico', 'Médico'),
+  paciente('paciente', 'Paciente'), // ADICIONADO
   superAdmin('super_admin', 'Super Admin');
 
   final String value;

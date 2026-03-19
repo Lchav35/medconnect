@@ -11,19 +11,13 @@ class AuthGate extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<AppAuthProvider>(
       builder: (context, authProvider, _) {
-        if (authProvider.isLoading) {
-          return const Scaffold(
-            body: Center(
-              child: CircularProgressIndicator(),
-            ),
-          );
-        }
-
         if (authProvider.isAuthenticated) {
-          return const DashboardScreen();
+          return DashboardScreen(); // ← Se estiver logado, vai direto pro Dashboard
         }
-
-        return const LoginScreen();
+        if (authProvider.selectedRole == null) {
+          return SelecionarPerfilScreen(); // ← Se não tiver perfil, mostra seleção
+        }
+        return LoginScreen();
       },
     );
   }
